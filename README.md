@@ -36,7 +36,7 @@
   
     Example.com/checker.php?type=checker&address={Input_file_path}&type_out=getme&output={Name_output_file}
 
-  <br><br>
+  <br>
     <b><h3>Set Webhook</h3></b>
     
     Example.com/checker.php?type=webhook&type_webhook=set&token={Token}&address={file_path}
@@ -55,7 +55,7 @@
     
     python3 main.py --type checker --address {Input_file_path} --type_out getme --output {Name_output_file}
 
-  <br><br>
+  <br>
   <b><h3>Set Webhook</h3></b>
   
     python3 main.py --type webhook --type_webhook set --token {Token} --address {file_path}
