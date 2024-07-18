@@ -30,12 +30,11 @@
   
     Example.com/checker.php?type=checker&address={Input_file_path}&type_out=output&output={Name_output_file}
   <b><h3>Output based on Webhook</h3></b>
-  
+
     Example.com/checker.php?type=checker&address={Input_file_path}&type_out=webhook&output={Name_output_file}
   <b><h3>Output based on Getme</h3></b>
   
     Example.com/checker.php?type=checker&address={Input_file_path}&type_out=getme&output={Name_output_file}
-
   <br>
     <b><h3>Set Webhook</h3></b>
     
@@ -48,13 +47,37 @@
   <b><h3>Simple Output</h3></b>
   
     python3 main.py --type checker --address {Input_file_path} --output {Name_output_file}
+
+    Example Output : 
+    
+    6447117307:AAH7HztVqr5kIgkb0kSxHAeglxoB74-8-5k
   <b><h3>Output based on Webhook</h3></b>
     
     python3 main.py --type checker --address {Input_file_path} --type_out webhook --output {Name_output_file}
+    
+    Example Output :
+
+    # ------------------------------ #
+    6447117307:AAH7HztVqr5kIgkb0kSxHAeglxoB74-8-5k
+    URL : Empty
+    Has custom certificate : False
+    Pending update count : 0
+    # ------------------------------ #
   <b><h3>Output based on Getme</h3></b>
     
     python3 main.py --type checker --address {Input_file_path} --type_out getme --output {Name_output_file}
 
+    Example Output :
+    # ------------------------------ #
+    6447117307:AAH7HztVqr5kIgkb0kSxHAeglxoB74-8-5k
+    ID Bot : 6447117307
+    First name : App city
+    Username : @city_applications_bot
+    Can join groups : True
+    Can read all group messages : False
+    Supports inline queries : False
+    Can connect to business : False
+    # ------------------------------ #
   <br>
   <b><h3>Set Webhook</h3></b>
   
