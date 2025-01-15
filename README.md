@@ -22,7 +22,7 @@
     </div>
     <br><br>
   <h2 align="left">Telegram Bot Tools</h2> 
-  <img src="https://github.com/Dead-U3er/TelegramBot-Tools/blob/master/img.png?raw=true"></img>
+  <img src="https://github.com/Dead-U3er/TelegramBot-Tools/blob/main/img.png?raw=true"></img>
   <h2 align="left">How to use PHP file 📖</h2>
   <div align="left">
   
