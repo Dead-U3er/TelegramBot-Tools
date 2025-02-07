@@ -8,7 +8,6 @@ import os
 # https://github.com/Dead-U3er
 # https://T.me/Dead_U3er
 # https://T.me/Good_U3er
-# https://U3er.xyz
 #
 # ⌜ Coded with love ⌟
 
