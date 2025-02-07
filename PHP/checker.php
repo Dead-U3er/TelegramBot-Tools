@@ -6,7 +6,6 @@
  * https://github.com/Dead-U3er
  * https://T.me/Dead_U3er
  * https://T.me/Good-U3er
- * https://u3er.xyz
  * 
    ⌜ Coded with love ⌟
 */
